@@ -14,7 +14,7 @@
 
 ## 👋 **Who am I?**
 - **Currently:** Working as a Senior Software Developer at **Intelliswift - An LTTS Company**.
-- A **Computer Engineer** from Vishwakarma Institute of Technoloy, Pune
+- A **Computer Engineer** from Vishwakarma Institute of Technology, Pune
 - I craft modern **web experiences** by blending innovative ideas with **AI-driven** solutions.  
 - I speak multiple languages like **JavaScript, TypeScript, Java**.  
 
