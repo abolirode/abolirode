@@ -33,7 +33,6 @@ Built high-performance **React UIs** with optimized API.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,css,azure,tailwind,nodejs,java,mysql,postgres,mongodb,git,vitest,yarn" />
 </p>
----
 
 ---
 
