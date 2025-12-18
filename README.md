@@ -21,10 +21,10 @@
 ---
 
 ## 🚀 **Where I’ve Been**
-**Senior Software Asoociate - Intelliswift - an LTTS Company**  
+- **Senior Software Asoociate - Intelliswift - an LTTS Company**  
 Fintech developer blending finance, technology, and innovation.
 
-**Software Engineer Intern – Techechelons Infosolutions**  
+- **Software Engineer Intern – Techechelons Infosolutions**  
 Built high-performance **React UIs** with optimized API.
 
 ---
